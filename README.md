@@ -1,4 +1,5 @@
-Modern Web Designer Portfolio
+#Modern Web Designer Portfolio#
+
 A sleek and responsive portfolio website developed using modern frontend technologies like React and TailwindCSS. Designed to showcase a web designer’s skills, projects, and personal brand with a focus on clean UI, smooth animations, and accessibility.
 
 🚀 Features
