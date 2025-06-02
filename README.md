@@ -1,12 +1,20 @@
-# React + Vite
+Modern Web Designer Portfolio
+A sleek and responsive portfolio website developed using modern frontend technologies like React and TailwindCSS. Designed to showcase a web designer’s skills, projects, and personal brand with a focus on clean UI, smooth animations, and accessibility.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+Responsive, mobile-friendly layout
+Built with React and TailwindCSS
+Smooth scroll and interactive animations
+Portfolio section to display projects
+About, Skills, and Contact sections
+Easy to customize for personal branding
+🛠️ Technologies Used
+React
+TailwindCSS
+JavaScript (ES6+)
+HTML5 & JSX
+🖼️ Sections Included
+Hero — Introduction with name, tagline, and call-to-action
+About Me — Bio, experience, and skills summary
+Projects — Showcasing design or development work
+Contact — Form or email links for easy communication
